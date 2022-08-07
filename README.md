@@ -60,4 +60,6 @@ curl --location --request GET 'http://localhost:8080/post/private' \
     "email": "test@test.com",
     "password": "123456"
 }'
-```
+```  
+間違えてnode_modulesまであげてまった  
+いつかgitignore書く
